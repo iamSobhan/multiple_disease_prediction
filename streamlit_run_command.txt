@@ -1,0 +1,2 @@
+streamlit run "C:\Users\Sobhan\Machine Learning\projects\multiple_disease_prediction\mdp\disease.py"
+
